@@ -1,11 +1,10 @@
 {
   "name": "toggle-hello-world-cli",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Toggle hello world message on and off",
   "main": "index.js",
   "dependencies": {
-    "ansi-escapes": "^2.0.0",
-    "keypress": "^0.2.1"
+    "pinyin-utils": "^1.0.2"
   },
   "bin": {
     "toggle-helloworld": "./index.js"
@@ -28,8 +27,5 @@
   "bugs": {
     "url": "https://github.com/pepebecker/toggle-hello-world-cli/issues"
   },
-  "homepage": "https://github.com/pepebecker/toggle-hello-world-cli#readme",
-  "dependencies": {
-    "pinyin-utils": "^1.0.2"
-  }
+  "homepage": "https://github.com/pepebecker/toggle-hello-world-cli#readme"
 }
