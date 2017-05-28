@@ -1,6 +1,6 @@
 {
   "name": "toggle-hello-world-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Toggle hello world message on and off",
   "main": "index.js",
   "dependencies": {
